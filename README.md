@@ -1,2 +1,2 @@
 # Technewlogy web page
-(more coming soon)
+Access it here: [https://noeimdev.github.io/technewlogy/](https://noeimdev.github.io/technewlogy/)
